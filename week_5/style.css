@@ -1,0 +1,38 @@
+body{font-family: 'Quicksand', sans-serif; 
+    background-color:#FCF5C7;
+    padding: 10px
+}
+
+h1{color:#925925;
+    font-size: 3em;
+    padding: 50px;
+    margin: 20px;
+}
+
+h2{color:#EC7D46; 
+    font: 2em;
+
+}
+
+img {
+    float: left;
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+
+}
+#one {
+    color:#925925;
+}
+#two{
+
+}
+#three{
+
+}
+#four{
+
+}
+#five{
+
+}
