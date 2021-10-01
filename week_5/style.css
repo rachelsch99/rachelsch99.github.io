@@ -5,27 +5,27 @@ body{font-family: 'Quicksand', sans-serif;
 
 h1{color:#925925;
     font-size: 3.5em;
-    padding: 50px;
-    margin: 20px;
+    padding: 40px;
+    margin: 10px;
     text-align: center;
 }
 
-h2{color:#EC7D46; 
+h2{
     font: 2em;
     text-decoration-line: underline;
 
 }
 
 div{
-    padding: 3%;
+    padding: 4%;
 }
 
 img {
     float: right;
-    width: 30%;
+    width: 45%;
     height: auto;
     border-radius: 10px;
-   
+    margin: 3%;
 }
 #one {
     color:#925925;
@@ -33,14 +33,25 @@ img {
 #two{
     color: cadetblue;
     font-size: 1.5em;
-    text-align: right;
+    text-align: left;
+
 }
 #three{
+    background-color: #925925;
+    color: #FCF5C7;
+    border-radius: 15px;
 
 }
 #four{
+    
+    color:#FCF5C7;
+    background-color: #EC7D46;
+    border-radius: 15px;
 
 }
 #five{
+    color:#FCF5C7;
+    background-color: cadetblue;
+    border-radius: 15px;
 
 }
