@@ -21,7 +21,7 @@ div{
 }
 
 img {
-    float: right;
+    float: center;
     width: 45%;
     height: auto;
     border-radius: 10px;
