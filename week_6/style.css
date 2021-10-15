@@ -8,6 +8,7 @@ h1{color:#925925;
     padding: 40px;
     margin: 10px;
     text-align: center;
+    border: #EC7D46;
 }
 
 h2{
@@ -20,6 +21,9 @@ div{
     padding: 4%;
 }
 
+
+
+
 img {
     float: center;
     width: 35%;
@@ -29,29 +33,32 @@ img {
 }
 #one {
     color:#925925;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 #two{
     color: cadetblue;
     font-size: 1.5em;
     text-align: left;
+  
 
 }
 #three{
     background-color: #925925;
     color: #FCF5C7;
     border-radius: 15px;
-
+    margin: 4%;
 }
 #four{
     
     color:#FCF5C7;
     background-color: #EC7D46;
     border-radius: 15px;
-
+    margin: 4%;
 }
 #five{
     color:#FCF5C7;
     background-color: cadetblue;
     border-radius: 15px;
-
+    margin: 4%;
 }
